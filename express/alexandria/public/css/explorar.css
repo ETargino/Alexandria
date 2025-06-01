@@ -63,3 +63,7 @@ body {
     align-items: center;
     
 }
+#no-results{
+    displey: none;
+    text-align: center;
+}
